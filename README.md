@@ -1,11 +1,15 @@
-# Hey there! 👋
+<div align="center">
 
-I'm Mahdi, a student from Feni Computer Institute, Bangladesh who's diving deep into full-stack web development.
+# Mahdi
+**Full-Stack Dev Student** · Feni, Bangladesh · Building with React & Next.js
 
-I enjoy turning ideas into real things — if something crosses my mind, I'll probably try to build it.
+---
 
-Right now I'm focused on React and Next.js, working my way toward becoming a junior developer. My go-to tools are VS Code and GitHub.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhiminul-Hossain&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-**Fun Facts:**
-- Big fan of gaming
-- Always have a new thing to learn
+---
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,vscode" />
+
+</div>
+

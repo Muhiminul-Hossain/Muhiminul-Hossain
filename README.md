@@ -5,9 +5,9 @@
 ## 👨‍💻 About Me
 I'm a passionate full-stack developer who enjoys building modern web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.
 Currently, I'm focused on expanding my knowledge while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development** or cool tech ideas!
-- 🔭 I'm currently working on a tourism website
-- 🌱 I'm currently learning Next.js
-- 💬 Ask me about JavaScript, React, and web development
+- 🌱 I'm currently learning Next.js and React
+- 📚 I'm a full-stack web development student
+- 💬 Ask me about HTML, CSS, and JavaScript
 
 ---
 

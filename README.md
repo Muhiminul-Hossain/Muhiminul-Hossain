@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Mahdi&fontSize=50)
 # Hi 👋, I'm Mahdi
 ### 🔭 I build things with JavaScript, React, and Next.js
 

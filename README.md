@@ -12,4 +12,4 @@
 
 ### ▶ GitHub Stats ⚡
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhiminul-Hossain&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Mahdi's GitHub Stats](https://streak-stats.demolab.com?user=Muhiminul-Hossain&theme=tokyonight)

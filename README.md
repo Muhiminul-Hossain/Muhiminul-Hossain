@@ -1,4 +1,4 @@
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,github)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Mahdi&fontSize=50&desc=I%20build%20things%20with%20JavaScript%2C%20React%2C%20and%20Next.js&descSize=20" width="100%"/>
 # Hi 👋, I'm Mahdi
 ### 🔭 I build things with JavaScript, React, and Next.js
 

@@ -47,6 +47,5 @@ Currently, I'm focused on expanding my knowledge while working on exciting real-
 
 ![Mahdi's GitHub Stats](https://streak-stats.demolab.com?user=Muhiminul-Hossain&theme=tokyonight)
 
----
 
-![Profile views](https://komarev.com/ghpvc/?username=Muhiminul-Hossain&style=flat-square)
+---

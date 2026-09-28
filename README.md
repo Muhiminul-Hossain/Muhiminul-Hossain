@@ -6,10 +6,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,mongodb" />
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhiminul-Hossain.Muhiminul-Hossain)
 
 ---
 
 ### ▶ GitHub Stats ⚡
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhiminul-Hossain&show_icons=true&theme=tokyonight)

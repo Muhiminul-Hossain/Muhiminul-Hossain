@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20Mahdi&fontSize=50&desc=I%20build%20things%20with%20JavaScript%2C%20React%2C%20and%20Next.js&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Mahdi&fontSize=50&desc=I%20build%20things%20with%20JavaScript%2C%20React%2C%20and%20Next.js&descSize=20" width="100%"/>
 # Hi 👋, I'm Mahdi
 ### 🔭 I build things with JavaScript, React, and Next.js
 

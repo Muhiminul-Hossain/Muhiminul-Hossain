@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Mahdi&fontSize=50&fontColor=FFFFFF&desc=I%20build%20things%20with%20JavaScript%2C%20React%2C%20and%20Next.js&descSize=20&descColor=FFFFFF&fontAlignY=40&descAlignY=60" width="100%"/>
+
+
 ---
 ## 👨‍💻 About Me
 I'm a passionate full-stack developer who enjoys building modern web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.
